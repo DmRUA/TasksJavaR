@@ -2,9 +2,7 @@ package com.javarush.task.task32.task3206;
 
 import java.lang.reflect.Proxy;
 
-import static sun.management.snmp.jvminstr.JvmThreadInstanceEntryImpl.ThreadStateMap.Byte1.other;
-
-/* 
+/*
 Дженерики для создания прокси-объекта
 */
 public class Solution {
