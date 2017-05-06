@@ -49,7 +49,7 @@ public abstract class BaseObject {
     public void draw(Canvas canvas) {
         //do nothing
     }
-
+// Hello
     /**
      * Двигаем себя на один ход.
      */
