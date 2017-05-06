@@ -16,7 +16,6 @@ public class Shop {
     public int count;
     public double profit;
     public String[] secretData;
-//dsfgdgfd
 
 
     public static class Goods {
