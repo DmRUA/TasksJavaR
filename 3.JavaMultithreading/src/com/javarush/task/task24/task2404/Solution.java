@@ -45,8 +45,6 @@ public class Solution {
             };
         }
 
-
-
         public HasWidth castToHasWidth() {
 
             return new HasWidth() {
