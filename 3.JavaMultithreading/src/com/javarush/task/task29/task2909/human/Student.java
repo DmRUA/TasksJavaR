@@ -29,7 +29,7 @@ public class Student extends UniversityPerson {
     }
 
     @Override
-    public String getPosition(){
+    public String getPosition() {
         return "Студент";
     }
 
@@ -39,7 +39,7 @@ public class Student extends UniversityPerson {
     }
 
 
-    public void setCourse(int course){
+    public void setCourse(int course) {
         this.course = course;
     }
 
